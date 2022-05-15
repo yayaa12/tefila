@@ -1,6 +1,6 @@
 {
     "$schema": "https://json.schemastore.org/web-manifest-combined.json",
-    "name": "cours-box",
+    "name": "Tefila-livre",
     "short_name": "Tefila-livre",
     "start_url": "index.html",
     "display": "standalone",
