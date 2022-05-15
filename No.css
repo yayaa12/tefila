@@ -1,0 +1,270 @@
+@import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap');
+img,iframe{
+display: block;
+ margin: 0px auto;}
+p{
+color:white;
+text-align:center;
+font-size:25px;
+font-family: 'Macondo', cursive;
+}
+p{
+border:50px double black;
+background-image: linear-gradient(rgb(55, 49, 40), rgba(80, 120, 74, 0.28)),
+                  url("https://storage-hidabroot-org.cdn.ampproject.org/ii/w820/s/storage.hidabroot.org/articles_new/107664_tumb_360Xauto.jpg");
+background-size:100px;
+background-repeat: space repeat;
+color:white;
+text-align:center;
+font-size:25px;
+font-family: 'Macondo', cursive;
+}
+#l{
+border:20px double black;
+background-image: linear-gradient(rgb(55, 49, 40), rgba(80, 120, 74, 0.28)),
+                  url("https://storage-hidabroot-org.cdn.ampproject.org/ii/w820/s/storage.hidabroot.org/articles_new/107664_tumb_360Xauto.jpg");
+color:white;
+text-align:center;
+font-size:25px;
+font-family: 'Macondo', cursive;
+
+}
+#lm{
+border:20px double black;
+background-image: linear-gradient(rgb(55, 49, 40), rgba(80, 120, 74, 0.28)),
+                  url("https://storage-hidabroot-org.cdn.ampproject.org/ii/w820/s/storage.hidabroot.org/articles_new/107664_tumb_360Xauto.jpg");
+color:white;
+text-align:center;
+font-size:25px;
+font-family: 'Macondo', cursive;
+
+}
+h1{
+border:50px double black;
+Background-color:white;
+color:black;
+text-align:center;
+font-size:25px;
+font-family: 'Macondo', cursive;
+
+}
+#ls{
+border:5px double black;
+Background-color:white;
+color:white;
+text-align:center;
+font-size:15px;
+font-family: 'Macondo', cursive;
+}
+#o{
+border:20px double black;
+border-bottom-style: groove;
+Background-color:white;
+color:black;
+text-align:center;
+font-size:25px;
+font-family: 'Macondo', cursive;
+}
+  #o{
+display:block;
+width:200px;
+margin:0 auto;
+
+}
+#p{
+border:20px double black;
+
+Background-color:white;
+color:white;
+text-align:center;
+font-size:25px;
+font-family: 'Macondo', cursive;
+
+}
+
+
+
+    
+*{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      body{
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+background-image: linear-gradient(rgb(55, 49, 40), rgba(80, 120, 74, 0.28)),
+                  url("https://storage-hidabroot-org.cdn.ampproject.org/ii/w820/s/storage.hidabroot.org/articles_new/107664_tumb_360Xauto.jpg");
+background-size:100px;
+background-repeat: space repeat;
+      }
+      .navbar{
+        height: 70px;
+        width: 100%;
+        padding: 14px 30px;
+background-image: linear-gradient(rgb(55, 49, 40), rgba(80, 120, 74, 0.28)),
+                  url("https://storage-hidabroot-org.cdn.ampproject.org/ii/w820/s/storage.hidabroot.org/articles_new/107664_tumb_360Xauto.jpg");
+background-size:100px;
+background-repeat: space repeat;
+
+        position: relative;
+      }
+      .navbar .nav-header{
+        display: inline;
+      }
+      .navbar .nav-header .nav-logo{
+        display: inline-block;
+        margin-top: -7px;
+      }
+      .navbar .nav-links{
+        display: inline;
+        float: right;
+        font-size: 18px;
+      }
+       
+      .navbar .nav-links .loginBtn{
+        display: inline-block;
+        padding: 5px 15px;
+        margin-left: 20px;
+        font-size: 17px;
+        color: rgb(9, 14, 90);
+      }
+      .navbar .nav-links a{
+        padding: 10px 12px;
+        text-decoration: none;
+        font-weight: 550;
+       
+        color: white;
+      }
+      /* Hover effects */
+      .navbar .nav-links a:hover{
+        background-color: black;
+      }
+       
+      /* responsive navbar toggle button */
+      .navbar #nav-check, .navbar .nav-btn{
+        display: none;
+      }
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      @media (max-width:950px) {
+        .navbar .nav-btn{
+          display: inline-block;
+          position: absolute;
+          top: 0px;
+          right: 0px;
+        }
+        .navbar .nav-btn label {
+          display: inline-block;
+          width: 80px;
+          height: 70px;
+          padding: 25px;
+        }
+        .navbar .nav-btn label span {
+          display: block;
+          height: 10px;
+          width: 25px;
+          border-top: 3px solid #eee;
+        }
+        .navbar .nav-btn label:hover, .navbar #nav-check:checked ~ .nav-btn label {
+          background-image: linear-gradient(rgb(55, 49, 40), rgba(80, 120, 74, 0.28)),
+                  url("https://storage-hidabroot-org.cdn.ampproject.org/ii/w820/s/storage.hidabroot.org/articles_new/107664_tumb_360Xauto.jpg");
+background-size:30px;
+background-repeat: space repeat;
+        }
+        .navbar .nav-links{
+          position: absolute;
+          display: block;
+          text-align: center;
+          width: 50%;
+background-image: linear-gradient(rgb(55, 49, 40), rgba(80, 120, 74, 0.28)),
+                  url("https://storage-hidabroot-org.cdn.ampproject.org/ii/w820/s/storage.hidabroot.org/articles_new/107664_tumb_360Xauto.jpg");
+background-size:100px;
+background-repeat: space repeat;
+          transition: all 0.3s ease-in;
+          overflow-y: hidden;
+          top: 70px;
+          right: 0px;
+        }
+        .navbar .nav-links a {
+          display: block;
+        }
+       
+        /* when nav toggle button not checked */
+        .navbar #nav-check:not(:checked) ~ .nav-links {
+          height: 0px;
+        }
+       
+        /* when nav toggle button is checked */
+        .navbar #nav-check:checked ~ .nav-links {
+          height: calc(100vh - 70px);
+          overflow-y: auto;
+        }
+        .navbar .nav-links .loginBtn {
+          padding: 10px 40px ;
+          margin: 20px;
+          font-size:  18px;
+          font-weight: bold;
+          color: rgb(9, 14, 90);
+        }
+         
+       
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
+
+  
+   @media screen and (max-width:1500px),(min-width:1000px) {
+            body{
+                width:99,9%;
+                height: 99%;
+         
+            }
+           iframe{
+               width: 90%;
+           }
+          video{
+            width:70%;
+                height: 50%;
+          } 
+          audio{
+            width:70%;
+                    height: 100%;
+          }
+          #audio{
+        width:80%;
+                height: 80%;
+      }
+      #image{width: 100%;
+      height: 100%;}
+      }
