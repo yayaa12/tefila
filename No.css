@@ -246,8 +246,8 @@ background-repeat: space repeat;
   
    @media screen and (max-width:1500px),(min-width:1000px) {
             body{
-                width:99,9%;
-                height: 99%;
+                width:100%;
+                height: 100%;
          
             }
            iframe{
