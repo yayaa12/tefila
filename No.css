@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap');
 img,iframe{
 display: block;
- margin: 0px auto;}
+ margin: 0px auto;
+border-radius: 30px;}
 p{
 color:white;
 text-align:center;
@@ -98,6 +99,7 @@ background-size:100px;
 background-repeat: space repeat;
       }
       .navbar{
+border-radius: 40px;
         height: 70px;
         width: 100%;
         padding: 14px 30px;
@@ -190,10 +192,11 @@ background-size:30px;
 background-repeat: space repeat;
         }
         .navbar .nav-links{
+border-radius: 60px;
           position: absolute;
           display: block;
           text-align: center;
-          width: 50%;
+          width: 100%;
 background-image: linear-gradient(rgb(55, 49, 40), rgba(80, 120, 74, 0.28)),
                   url("https://storage-hidabroot-org.cdn.ampproject.org/ii/w820/s/storage.hidabroot.org/articles_new/107664_tumb_360Xauto.jpg");
 background-size:100px;
